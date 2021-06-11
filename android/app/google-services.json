@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283885237785",
+    "project_id": "travel-on-click",
+    "storage_bucket": "travel-on-click.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283885237785:android:186e2a8496313250639c88",
+        "android_client_info": {
+          "package_name": "com.company.travel_on_click"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283885237785-14mp1rlmkh891ieqgbe4vtphj0o1q5ds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7DfYbZCTTY1D6AzzxtB_Z3uFQP4hWcDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283885237785-14mp1rlmkh891ieqgbe4vtphj0o1q5ds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
