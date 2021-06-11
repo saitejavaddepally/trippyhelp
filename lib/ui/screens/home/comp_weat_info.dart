@@ -146,7 +146,7 @@ class _TestState extends State<Test> {
                         icon: endLocWeatherData['icon1'])
                     .customCardForWeather(),
                 SizedBox(
-                  height: 15.0,
+                  height: 16.0,
                 ),
 
                 Center(
