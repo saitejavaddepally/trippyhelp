@@ -1,17 +1,17 @@
 # travel_on_click
 
-A new Flutter application.
+
+The intention of this application is to build an app that can plan trips so that the user of this app can have a happy trip.
+Until now the user checks out different websites to plan a trip that can consume a lot of time.
+So, a trip planner is designed such that it checks the user specified dates and plans accordingly.
+App predicts the future weather conditions.
+Shows the weather in required consecutive days.
+Acknowledge us whether we plan for a trip or not.
+It also shows the directions.
+Tickets booking and all will be redirected from the app
+
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# trippyhelp
+After cloning this project run "flutter pub get" in your command prompt or terminal after installing flutter in your computer
